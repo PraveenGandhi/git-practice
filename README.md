@@ -1,12 +1,12 @@
 # git-practice
 
 
-to create a new repo/initialize a git repo, run the following command in your terminal:
+To create a new repo/initialize a git repo, run the following command in your terminal:
 ```shell
 git intit
 ```
 
-add file to repo
+add a file to repo
 ```shell
 git add <file_name>
 ```
