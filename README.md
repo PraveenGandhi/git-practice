@@ -52,3 +52,13 @@ branching to hotfix
 git checkout -b hotfix/branch-name
 ```
 
+
+clone a repo
+```shell
+git clone <repo_url>
+```
+
+example:
+```shell
+git clone https://github.com/PraveenGandhi/git-practice.git
+```
