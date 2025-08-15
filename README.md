@@ -37,4 +37,28 @@ git push origin main
 ```
 
 
+branching to feature branch
+```shell
+git checkout -b <branch_name>
+```
+example:
+```shell
+git checkout -b feature/branching-commands
+```
 
+
+branching to hotfix
+```shell
+git checkout -b hotfix/branch-name
+```
+
+
+clone a repo
+```shell
+git clone <repo_url>
+```
+
+example:
+```shell
+git clone https://github.com/PraveenGandhi/git-practice.git
+```
